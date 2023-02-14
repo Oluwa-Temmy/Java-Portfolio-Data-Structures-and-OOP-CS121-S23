@@ -1,0 +1,4 @@
+course credit score
+cs121     4    89
+cs2       6     9
+cs3       9    76
