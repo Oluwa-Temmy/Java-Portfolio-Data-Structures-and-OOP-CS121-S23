@@ -5,6 +5,7 @@ Repository for projects, assignments, and activities in CS121 for spring semeste
 # 🔨Projects
 **_[Pokemon Battle](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/Projects/Project1)_**
 Project 1 of 4
+February 4th 2023 - February 12th 2023
 
 A 2 Player pokemon battle game played in the terminal of the editor. When game is running the player is asked how
 many rounds they would like to play. 
