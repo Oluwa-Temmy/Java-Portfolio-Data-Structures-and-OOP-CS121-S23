@@ -4,9 +4,11 @@
 //          Submission: 2/12/2023
 //******************************************************
 //Description:
-//This program asks the user for how many students there are
-//and how many tests each student took.
-//The scores of all the tests are then averaged out
+//This game is a game where you can battle custom pokemon with custom abilities.
+//This game is played in the terminal of the editor. 
+//The player enters any number of rounds they would wish to play.
+//And each round round the player that doesnt get to 0 health first gets a point
+//Each round you get a point and the player to win the most round wins the game
 //********************************************************
 
 import java.util.Random;
