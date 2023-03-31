@@ -2,7 +2,8 @@ import java.util.Scanner;
 
 public class PokemonSelection {
     private Scanner keyboard = new Scanner(System.in);
-    private int count = 1;
+    private static int count = 1;
+
 
     private Object createPokemon(){
         System.out.println("Name of Pokemon?");
@@ -20,15 +21,13 @@ public class PokemonSelection {
         System.out.println("What is the attack speed");
         int attackSpeed = Integer.parseInt(keyboard.nextLine());
 
-        Pokemon pokemon = new Pokemon(name,hit_points,move,movePower,attackSpeed);
-        return pokemon;
-
+        return new Pokemon(name,hit_points,move,movePower,attackSpeed);
     }
     public void assignPokemon(){
         System.out.printf("Hello player %d, Select a Pokemon and enter its stats",count);
         Object pokemon = createPokemon();
-        System.out.printf("Player %d Pokemon\n", count);
-        pokemon.displayPokemonStats();
+        System.out.printf("Player %d Pokemon\n------------------\n", count);
+        .displayPokemonStats();
         keyboard.close();
         count++;
     }

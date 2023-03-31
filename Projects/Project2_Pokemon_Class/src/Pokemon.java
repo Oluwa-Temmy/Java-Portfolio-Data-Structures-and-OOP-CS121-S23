@@ -12,6 +12,9 @@ public class Pokemon {
         this.movePower = movePower;
         this.attackSpeed = attackSpeed;
     }
+    public Pokemon(){
+
+    }
     //Get your methods
     public String getName(){
         return name;
