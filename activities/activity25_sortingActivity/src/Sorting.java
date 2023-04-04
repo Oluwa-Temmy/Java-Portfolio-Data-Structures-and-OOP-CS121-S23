@@ -1,15 +1,15 @@
 import java.util.Scanner;
 
 public class Sorting {
-    int [] unsorted;
+    int [] unsorted = new int[5];
     Scanner keyboard = new Scanner(System.in);
     public int [] getArray(){
         System.out.println("Hey user! Pick 5 numbers and I will arrange them in order\n");
         for (int i = 0; i<5; i++){
-            System.out.printf("%d. Pick your number", i);
+            System.out.printf("%d. Pick your number\n", i+1);
             int num = keyboard.nextInt();
             keyboard.nextLine();
-            unsorted[i] = num; //add num to list
+            unsorted[i]=num; //add num to list
         }
         return unsorted;
     }

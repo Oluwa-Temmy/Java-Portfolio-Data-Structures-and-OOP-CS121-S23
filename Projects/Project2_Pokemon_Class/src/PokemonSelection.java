@@ -27,7 +27,8 @@ public class PokemonSelection {
         System.out.printf("Hello player %d, Select a Pokemon and enter its stats",count);
         Object pokemon = createPokemon();
         System.out.printf("Player %d Pokemon\n------------------\n", count);
-        .displayPokemonStats();
+        System.out.println(pokemon);
+        //Display tool
         keyboard.close();
         count++;
     }
