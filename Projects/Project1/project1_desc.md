@@ -1,5 +1,5 @@
 
-#_[Pokemon Battle](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/Projects/Project1)_
+# [Pokemon Battle](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/Projects/Project1)
 
 Project 1 of 3
 
