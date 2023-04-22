@@ -24,27 +24,27 @@ Repository for projects, assignments, and activities in CS121 for spring semeste
 | A05 | **_[Conditionals and Equals()](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity_5)_** | desc |
 | A06 | **_[]()_** | desc |
 | A07 | **_[While Loop](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity_7)_** | desc |
-| A08 | **_[Nested for Loops]()_** | desc |
-| A09 | **_[Random Numbers]()_** | desc |
-| A10 | **_[File Reading and Writing]()_** | desc |
-| A11 | **_[Methods]()_** | desc |
-| A12 | **_[Classes]()_** | desc |
-| A13 | **_[Encapsulation]()_** | desc |
-| A14 | **_[Overloaded]()_** | desc |
-| A15 | **_[Arrays]()_** | desc |
-| A16 | **_[Multidimensional Arrays]()_** | desc |
-| A17 | **_[ArrayLists and Jumps]()_** | desc |
+| A08 | **_[Nested for Loops](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/nestedForLoopsActivity8)_** | desc |
+| A09 | **_[Random Numbers](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity%209)_** | desc |
+| A10 | **_[File Reading and Writing](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/FileAvtivityactivity10)_** | desc |
+| A11 | **_[Methods](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity11)_** | desc |
+| A12 | **_[Classes](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity12)_** | desc |
+| A13 | **_[Encapsulation](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity13_packages)_** | desc |
+| A14 | **_[Overloaded](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity14_overloaded)_** | desc |
+| A15 | **_[Arrays](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity15)_** | desc |
+| A16 | **_[Multidimensional Arrays](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity16)_** | desc |
+| A17 | **_[ArrayLists and Jumps](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity17-arrayListDemo)_** | desc |
 | A18 | **_[Class Discovery]()_** | desc |
-| A19 | **_[Inheritance]()_** | desc |
+| A19 | **_[Inheritance](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity_19Inheritance)_** | desc |
 | A20 | **_[Abstract and Interfaces]()_** | desc |
-| A21 | **_[Static Keyboard]()_** | desc |
+| A21 | **_[Static Keyboard](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity21_staticActivity)_** | desc |
 | A22 | **_[]()_** | desc |
-| A23 | **_[Recursion]()_** | desc |
-| A24 | **_[Big O]()_** | desc |
-| A25 | **_[Bubble Sort & Merge Sort]()_** | desc |
-| A26 | **_[Selection, Insertion, & Quick SOrt]()_** | desc |
-| A27 | **_[Binary Search]()_** | desc |
-| A28 | **_[Sets and Iterators]()_** | desc |
+| A23 | **_[Recursion](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity23_recursion)_** | desc |
+| A24 | **_[Big O](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity24_BigOActivity)_** | desc |
+| A25 | **_[Bubble Sort & Merge Sort](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity25_sortingActivity)_** | desc |
+| A26 | **_[Selection, Insertion, & Quick SOrt](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity26_sortingActivity2)_** | desc |
+| A27 | **_[Binary Search](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity27_BinarySearch)_** | desc |
+| A28 | **_[Sets and Iterators](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity28_setAndIteratorActivity)_** | desc |
 | A29 | **_[Generics]()_** | desc |
 | A30 | **_[HashMap]()_** | desc |
 | A31 | **_[Linked List]()_** | desc |
