@@ -15,6 +15,37 @@ Repository for projects, assignments, and activities in CS121 for spring semeste
 
 # :pager:Activities
 
+| Number | Activities | Description |
+| ------------- | ------------- | ------------- |
+| A01 | **_[Dialog Box and Scanner](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity1)_** | desc |
+| A02 | **_[Conditionals]()_** | desc |
+| A03 | **_[Logical Operators](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity3)_** | desc |
+| A04 | **_[Switch](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity_4)_** | desc |
+| A05 | **_[Conditionals and Equals()](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity_5)_** | desc |
+| A06 | **_[]()_** | desc |
+| A07 | **_[While Loop](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity_7)_** | desc |
+| A08 | **_[]()_** | desc |
+| A08 | **_[]()_** | desc |
+| A08 | **_[]()_** | desc |
+| A05 | **_[]()_** | desc |
+| A06 | **_[]()_** | desc |
+| A07 | **_[]()_** | desc |
+| A08 | **_[]()_** | desc |
+| A08 | **_[]()_** | desc |
+| A08 | **_[]()_** | desc |
+| A05 | **_[]()_** | desc |
+| A06 | **_[]()_** | desc |
+| A07 | **_[]()_** | desc |
+| A08 | **_[]()_** | desc |
+| A08 | **_[]()_** | desc |
+| A08 | **_[]()_** | desc |
+| A05 | **_[]()_** | desc |
+| A06 | **_[]()_** | desc |
+| A07 | **_[]()_** | desc |
+| A08 | **_[]()_** | desc |
+| A08 | **_[]()_** | desc |
+| A08 | **_[]()_** | desc |
+
 Project 1 of 4
 
 Dates: February 4th 2023 - February 12th 2023
