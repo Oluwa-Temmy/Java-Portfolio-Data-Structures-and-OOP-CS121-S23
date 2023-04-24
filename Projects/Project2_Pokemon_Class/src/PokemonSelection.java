@@ -2,10 +2,10 @@ import java.util.Scanner;
 
 public class PokemonSelection {
     private Scanner keyboard = new Scanner(System.in);
-    private static int count = 1;
 
 
-    private Object createPokemon(){
+    private Pokemon createPokemon(){
+
         System.out.println("Name of Pokemon?");
         String name = keyboard.nextLine();
 
@@ -24,12 +24,16 @@ public class PokemonSelection {
         return new Pokemon(name,hit_points,move,movePower,attackSpeed);
     }
     public void assignPokemon(){
-        System.out.printf("Hello player %d, Select a Pokemon and enter its stats",count);
-        Object pokemon = createPokemon();
-        System.out.printf("Player %d Pokemon\n------------------\n", count);
-        System.out.println(pokemon);
-        //Display tool
+        System.out.println("Hello, Welcome to pokemon selection\n");
+        System.out.println("How many players will be playing?\n");
+        int num_players = Integer.parseInt(keyboard.nextLine());
+        for(int i = 0;i<num_players;i++){
+            System.out.printf("\n\n\nCreate your pokemon player %d\n", i+1);
+            Pokemon pokemon = createPokemon();
+            System.out.printf("Player %d Pokemon\n------------------\n", i+1);
+            pokemon.displayPokemonStats();
+        }
         keyboard.close();
-        count++;
+
     }
 }
