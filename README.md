@@ -3,10 +3,63 @@ Repository for projects, assignments, and activities in CS121 for spring semeste
 
 
 # 🔨Projects
-**_[Pokemon Battle](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/Projects/Project1)_**
+
+| Project | Duration | Description |
+| ------------- | ------------- | ------------- |
+| (1 of 4) **_[Pokemon Battle](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/Projects/Project1)_** | Feb 4th 2023 - Feb 12th 2023 | desc |
+| (2 of 4) **_[Pokemon Class](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/Projects/Project2_Pokemon_Class)_** | Dates | desc |
+| (3 of 4) **_[Github Portfolio](https://github.com/Oluwa-Temmy/CS121-S23)_** | April 20th 2023 - April 28th 2023 | desc |
+| (4 of 4) **_[Final Report]()_** | Dates | desc |
+
+
+
+# :pager:Activities
+
+| Number | Activities | Description |
+| ------------- | ------------- | ------------- |
+| A01 | **_[Dialog Box and Scanner](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity1)_** | desc |
+| A02 | **_[Conditionals]()_** | desc |
+| A03 | **_[Logical Operators](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity3)_** | desc |
+| A04 | **_[Switch](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity_4)_** | desc |
+| A05 | **_[Conditionals and Equals()](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity_5)_** | desc |
+| A06 | **_[]()_** | desc |
+| A07 | **_[While Loop](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity_7)_** | desc |
+| A08 | **_[Nested for Loops](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/nestedForLoopsActivity8)_** | desc |
+| A09 | **_[Random Numbers](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity%209)_** | desc |
+| A10 | **_[File Reading and Writing](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/FileAvtivityactivity10)_** | desc |
+| A11 | **_[Methods](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity11)_** | desc |
+| A12 | **_[Classes](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity12)_** | desc |
+| A13 | **_[Encapsulation](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity13_packages)_** | desc |
+| A14 | **_[Overloaded](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity14_overloaded)_** | desc |
+| A15 | **_[Arrays](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity15)_** | desc |
+| A16 | **_[Multidimensional Arrays](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity16)_** | desc |
+| A17 | **_[ArrayLists and Jumps](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity17-arrayListDemo)_** | desc |
+| A18 | **_[Class Discovery]()_** | desc |
+| A19 | **_[Inheritance](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity_19Inheritance)_** | desc |
+| A20 | **_[Abstract and Interfaces]()_** | desc |
+| A21 | **_[Static Keyboard](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity21_staticActivity)_** | desc |
+| A22 | **_[]()_** | desc |
+| A23 | **_[Recursion](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity23_recursion)_** | desc |
+| A24 | **_[Big O](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity24_BigOActivity)_** | desc |
+| A25 | **_[Bubble Sort & Merge Sort](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity25_sortingActivity)_** | desc |
+| A26 | **_[Selection, Insertion, & Quick SOrt](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity26_sortingActivity2)_** | desc |
+| A27 | **_[Binary Search](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity27_BinarySearch)_** | desc |
+| A28 | **_[Sets and Iterators](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity28_setAndIteratorActivity)_** | desc |
+| A29 | **_[Generics]()_** | desc |
+| A30 | **_[HashMap]()_** | desc |
+| A31 | **_[Linked List]()_** | desc |
+| A32 | **_[Stacks]()_** | desc |
+| A33 | **_[Queue]()_** | desc |
+| A34 | **_[Simple Date Format]()_** | desc |
+| A35 | **_[Testing]()_** | desc |
+| A36 | **_[StringBuilder]()_** | desc |
+| A37 | **_[JSON]()_** | desc |
+| A38 | **_[XML]()_** | desc |
+| A39 | **_[]()_** | desc |
+
 Project 1 of 4
 
-February 4th 2023 - February 12th 2023
+Dates: February 4th 2023 - February 12th 2023
 
 A 2 Player pokemon battle game played in the terminal of the editor. When game is running the player is asked how
 many rounds they would like to play. 
