@@ -51,7 +51,7 @@ Repository for projects, assignments, and activities in CS121 for spring semeste
 | A32 | **_[Stacks](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity32_stacks)_** | desc |
 | A33 | **_[Queue](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity33_QueueActivity)_** | desc |
 | A34 | **_[Simple Date Format](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity34_dateFormat)_** | desc |
-| A35 | **_[Testing]()_** | desc |
+| A35 | **_[Testing](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity35_testingActivity)_** | desc |
 | A36 | **_[StringBuilder](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity36_stringBuilder)_** | desc |
 | A37 | **_[JSON](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity37_JSON)_** | desc |
 | A38 | **_[XML]()_** | desc |
