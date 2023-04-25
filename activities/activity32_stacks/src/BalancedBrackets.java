@@ -9,8 +9,13 @@ public class BalancedBrackets {
             char c = brackets.charAt(i);
             if (c == '('){
                 de_staq.push(c);
-            } else if (c ==')' || '(' != de_staq.peek()) {
-                de_staq.push(c);
+            } else if (c ==')'){
+                if (!de_staq.empty() || de_staq.peek() == '('){
+                    de_staq.pop();
+                }
+                else {
+                    de_staq.push(c);
+                }
             }
             else{
                 de_staq.pop();

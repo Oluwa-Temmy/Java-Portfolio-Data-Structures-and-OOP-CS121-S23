@@ -1,0 +1,36 @@
+[
+  {
+    "name": "yoongi",
+    "dob": 1993,
+    "line": "rap"
+  },
+  {
+    "name": "jin",
+    "dob": 1992,
+    "line": "vocal"
+  },
+  {
+    "name": "rm",
+    "dob": 1994,
+    "line": "rap"
+  },
+  {
+    "name": "jimin",
+    "dob": 1995,
+    "line": "vocal"
+  },
+  {
+    "name": "jungkook",
+    "dob": 1997,
+    "line": "vocal"
+  },
+  {
+    "name": "v",
+    "dob": 1995,
+    "line": "vocal"
+  },
+  {"name": "jhope",
+    "dob": 1994,
+    "line": "rap"
+  }
+]
