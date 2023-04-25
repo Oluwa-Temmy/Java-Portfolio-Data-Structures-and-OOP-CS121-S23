@@ -45,15 +45,15 @@ Repository for projects, assignments, and activities in CS121 for spring semeste
 | A26 | **_[Selection, Insertion, & Quick SOrt](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity26_sortingActivity2)_** | desc |
 | A27 | **_[Binary Search](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity27_BinarySearch)_** | desc |
 | A28 | **_[Sets and Iterators](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity28_setAndIteratorActivity)_** | desc |
-| A29 | **_[Generics]()_** | desc |
+| A29 | **_[Generics](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity29_genericsActivity)_** | desc |
 | A30 | **_[HashMap]()_** | desc |
-| A31 | **_[Linked List]()_** | desc |
-| A32 | **_[Stacks]()_** | desc |
-| A33 | **_[Queue]()_** | desc |
-| A34 | **_[Simple Date Format]()_** | desc |
+| A31 | **_[Linked List](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity31_linkedListActivity)_** | desc |
+| A32 | **_[Stacks](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity32_stacks)_** | desc |
+| A33 | **_[Queue](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity33_QueueActivity)_** | desc |
+| A34 | **_[Simple Date Format](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity34_dateFormat)_** | desc |
 | A35 | **_[Testing]()_** | desc |
-| A36 | **_[StringBuilder]()_** | desc |
-| A37 | **_[JSON]()_** | desc |
+| A36 | **_[StringBuilder](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity36_stringBuilder)_** | desc |
+| A37 | **_[JSON](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity37_JSON)_** | desc |
 | A38 | **_[XML]()_** | desc |
 | A39 | **_[]()_** | desc |
 
