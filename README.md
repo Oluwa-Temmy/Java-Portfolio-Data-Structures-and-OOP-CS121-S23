@@ -21,7 +21,7 @@ Portfolio repository for projects, assignments, and activities in CS121 for spri
 | A02 | **_[Conditionals]()_** | desc  |
 | A03 | **_[Logical Operators](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity3)_** | Using if, else, else-if logical operators to check if a <br />statement is true or not<br /><br />Programs Files:<br /> |
 | A04 | **_[Switch](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity_4)_** | Uses Java switch case to compare the parameter <br />variable with other test cases<br /><br />Programs Files:<br /> |
-| A05 | **_[Conditionals and Equals()](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity_5)_** |  |
+| A05 | **_[Conditionals and Equals()](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity_5)_** | desc |
 | A06 | **_[]()_** | desc |
 | A07 | **_[While Loop](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity_7)_** | desc |
 | A08 | **_[Nested for Loops](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/nestedForLoopsActivity8)_** | desc |
@@ -32,7 +32,7 @@ Portfolio repository for projects, assignments, and activities in CS121 for spri
 | A13 | **_[Encapsulation](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity13_packages)_** | Creating getter and setter methods in a class in order <br />to get the values in a class. Have default <br />constructor and custom constructor |
 | A14 | **_[Overloaded](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity14_overloaded)_** | Creation of multiple constructors with different lengths <br />and types of data. Also uses getters and setters to get <br />the values of attributes in the constructor. |
 | A15 | **_[Arrays](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity15)_** | Use of the `Array` data structure to store different data <br />types variable. ex. `String[] stringArray = new String[4]` |
-| A16 | **_[Multidimensional Arrays](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity16)_** | desc |
+| A16 | **_[Multidimensional Arrays](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity16)_** | Use of multidimensional arrays to put lists inside of lists <br />and looping through each list and list item. |
 | A17 | **_[ArrayLists and Jumps](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity17-arrayListDemo)_** | desc |
 | A18 | **_[Class Discovery]()_** | desc |
 | A19 | **_[Inheritance](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity_19Inheritance)_** | desc |
