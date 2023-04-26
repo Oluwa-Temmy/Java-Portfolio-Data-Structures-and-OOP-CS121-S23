@@ -29,7 +29,7 @@ Portfolio repository for projects, assignments, and activities in CS121 for spri
 | A10 | **_[File Reading and Writing](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/FileAvtivityactivity10)_** | Used Java's Filewriter class to write 'lower level' datatypes <br />like strings and char characters to files. Used Java's <br />Printwriter class to write different types of datatypes<br /> to a file. |
 | A11 | **_[Methods](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity11)_** | desc |
 | A12 | **_[Classes](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity12)_** | desc |
-| A13 | **_[Encapsulation](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity13_packages)_** | desc |
+| A13 | **_[Encapsulation](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity13_packages)_** | Creating getter and setter methods in a class in order to get  |
 | A14 | **_[Overloaded](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity14_overloaded)_** | desc |
 | A15 | **_[Arrays](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity15)_** | desc |
 | A16 | **_[Multidimensional Arrays](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity16)_** | desc |
