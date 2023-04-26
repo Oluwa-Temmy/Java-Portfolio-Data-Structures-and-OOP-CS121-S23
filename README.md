@@ -18,7 +18,8 @@ Repository for projects, assignments, and activities in CS121 for spring semeste
 | Number | Activities | Description |
 | ------------- | ------------- | ------------- |
 | A01 | **_[Dialog Box and Scanner](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity1)_** | Use of the Scanner class and JOptionPane class Library in Java to take in user input and respond to user input. |
-| A02 | **_[Conditionals]()_** | desc |
+
+| A02 | **_[Conditionals]()_** | Using if, else, else-if logical operators to check if a number is odd or even, a given set of 3 numbers what type of triangle it makes, or a username and password match  |
 | A03 | **_[Logical Operators](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity3)_** | desc |
 | A04 | **_[Switch](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity_4)_** | desc |
 | A05 | **_[Conditionals and Equals()](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity_5)_** | desc |
