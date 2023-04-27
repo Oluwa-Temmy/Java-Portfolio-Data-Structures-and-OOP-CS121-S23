@@ -45,7 +45,7 @@ Portfolio repository for projects, assignments, and activities in CS121 for spri
 | A26 | **_[Selection, Insertion, & Quick Sort](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity26_sortingActivity2)_** | desc |
 | A27 | **_[Binary Search](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity27_BinarySearch)_** | The `Binary Search` algorithm (divide and conquer) <br />searches an Array of elements by repeatedly dividing an <br />array in half to the portion of where the element could be |
 | A28 | **_[Sets and Iterators](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity28_setAndIteratorActivity)_** | Uses the `HashSet` data structure in order to store unique <br />elements. Use of the `Iterator` object to iterate through <br />collections like Arrays, lists, sets, and maps. |
-| A29 | **_[Generics](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity29_genericsActivity)_** | desc |
+| A29 | **_[Generics](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity29_genericsActivity)_** | Use of Generic methods `<?>` for any data type in a parameter |
 | A30 | **_[HashMap]()_** | desc |
 | A31 | **_[Linked List](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity31_linkedListActivity)_** | desc |
 | A32 | **_[Stacks](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity32_stacks)_** | desc |
