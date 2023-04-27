@@ -36,10 +36,10 @@ Portfolio repository for projects, assignments, and activities in CS121 for spri
 | A17 | **_[ArrayLists and Jumps](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity17-arrayListDemo)_** | Use of Java's `ArrayList<>` data structure to create <br />different types of array lists to store elements |
 | A18 | **_[Class Discovery]()_** | desc |
 | A19 | **_[Inheritance](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity_19Inheritance)_** | desc |
-| A20 | **_[Abstract and Interfaces](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity20_abstractAndInterference)_** | Uses the abstract class to use abstract methods and uses Interfaces for complete abstraction for implementation |
-| A21 | **_[Static Keyboard](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity21_staticActivity)_** | desc |
+| A20 | **_[Abstract and Interfaces](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity20_abstractAndInterference)_** | Uses the `abstract` class to use abstract methods and uses `Interfaces` for complete abstraction for implementation |
+| A21 | **_[Static Keyboard](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity21_staticActivity)_** |Using the `static` keyword on variables |
 | A22 | **_[]()_** | desc |
-| A23 | **_[Recursion](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity23_recursion)_** | desc |
+| A23 | **_[Recursion](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity23_recursion)_** | Using recursion to find out whether or not a string is a palindrome |
 | A24 | **_[Big O](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity24_BigOActivity)_** | desc |
 | A25 | **_[Bubble Sort & Merge Sort](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity25_sortingActivity)_** | desc |
 | A26 | **_[Selection, Insertion, & Quick Sort](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity26_sortingActivity2)_** | desc |
