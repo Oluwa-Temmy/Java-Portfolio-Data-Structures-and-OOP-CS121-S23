@@ -1,5 +1,5 @@
 # 📁**CS121-S23**
-Repository for projects, assignments, and activities in CS121 for spring semester 2023.
+Portfolio repository for projects, assignments, and activities in CS121 for spring semester 2023.
 
 
 # 🔨Projects
@@ -17,42 +17,42 @@ Repository for projects, assignments, and activities in CS121 for spring semeste
 
 | Number | Activities | Description |
 | ------------- | ------------- | ------------- |
-| A01 | **_[Dialog Box and Scanner](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity1)_** | desc |
-| A02 | **_[Conditionals]()_** | desc |
-| A03 | **_[Logical Operators](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity3)_** | desc |
-| A04 | **_[Switch](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity_4)_** | desc |
+| A01 | **_[Dialog Box and Scanner](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity1)_** | Use of the `Scanner` class and `JOptionPane` class Library <br />in Java to take in user input and respond to user input.<br /><br />Program Files:<br /> |
+| A02 | **_[Conditionals]()_** | desc  |
+| A03 | **_[Logical Operators](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity3)_** | Using `if`, `else`, `else-if` logical operators to check if a <br />statement is true or not<br /><br />Programs Files:<br /> |
+| A04 | **_[Switch](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity_4)_** | Uses Java `switch` case to compare the parameter <br />variable with other test cases<br /><br />Programs Files:<br /> |
 | A05 | **_[Conditionals and Equals()](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity_5)_** | desc |
 | A06 | **_[]()_** | desc |
 | A07 | **_[While Loop](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity_7)_** | desc |
 | A08 | **_[Nested for Loops](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/nestedForLoopsActivity8)_** | desc |
-| A09 | **_[Random Numbers](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity%209)_** | desc |
-| A10 | **_[File Reading and Writing](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/FileAvtivityactivity10)_** | desc |
+| A09 | **_[Random Numbers](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity%209)_** | Uses java `Random` class to choose a random set of <br />numbers from a set |
+| A10 | **_[File Reading and Writing](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/FileAvtivityactivity10)_** | Used Java's `Filewriter` class to write 'lower level' datatypes <br />like strings and char characters to files. Used Java's <br />`Printwriter` class to write different types of data <br />types to a file. |
 | A11 | **_[Methods](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity11)_** | desc |
 | A12 | **_[Classes](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity12)_** | desc |
-| A13 | **_[Encapsulation](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity13_packages)_** | desc |
-| A14 | **_[Overloaded](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity14_overloaded)_** | desc |
-| A15 | **_[Arrays](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity15)_** | desc |
-| A16 | **_[Multidimensional Arrays](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity16)_** | desc |
-| A17 | **_[ArrayLists and Jumps](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity17-arrayListDemo)_** | desc |
+| A13 | **_[Encapsulation](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity13_packages)_** | Creating `getter` and `setter` methods in a class in order <br />to get the values in a class. Have default <br />constructor and custom constructor |
+| A14 | **_[Overloaded](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity14_overloaded)_** | Creation of multiple constructors with different lengths <br />and types of data. Also uses getters and setters to get <br />the values of attributes in the constructor. |
+| A15 | **_[Arrays](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity15)_** | Use of the `Array` data structure to store different data <br />types variable. ex. `String[] stringArray = new String[4]` |
+| A16 | **_[Multidimensional Arrays](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity16)_** | Use of multidimensional arrays to put lists inside of lists <br />and looping through each list and list item. |
+| A17 | **_[ArrayLists and Jumps](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity17-arrayListDemo)_** | Use of Java's `ArrayList<>` data structure to create <br />different types of array lists to store elements |
 | A18 | **_[Class Discovery]()_** | desc |
 | A19 | **_[Inheritance](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity_19Inheritance)_** | desc |
-| A20 | **_[Abstract and Interfaces]()_** | desc |
-| A21 | **_[Static Keyboard](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity21_staticActivity)_** | desc |
+| A20 | **_[Abstract and Interfaces](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity20_abstractAndInterference)_** | Uses the `abstract` class to use abstract methods and <br />uses `Interfaces` for complete abstraction for <br />implementation |
+| A21 | **_[Static Keyboard](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity21_staticActivity)_** |Using the `static` keyword on variables |
 | A22 | **_[]()_** | desc |
-| A23 | **_[Recursion](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity23_recursion)_** | desc |
-| A24 | **_[Big O](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity24_BigOActivity)_** | desc |
-| A25 | **_[Bubble Sort & Merge Sort](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity25_sortingActivity)_** | desc |
-| A26 | **_[Selection, Insertion, & Quick SOrt](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity26_sortingActivity2)_** | desc |
-| A27 | **_[Binary Search](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity27_BinarySearch)_** | desc |
-| A28 | **_[Sets and Iterators](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity28_setAndIteratorActivity)_** | desc |
-| A29 | **_[Generics](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity29_genericsActivity)_** | desc |
+| A23 | **_[Recursion](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity23_recursion)_** | Using `recursion` to find out whether or not a string <br />is a palindrome |
+| A24 | **_[Big O](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity24_BigOActivity)_** | Calculating aproximate Space Time Complexity(`Big O`) <br />for memory usage and process time completion |
+| A25 | **_[Bubble Sort & Merge Sort](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity25_sortingActivity)_** | Using the `Bubble sorting` algorithm in order to organize <br />elements in an Array by swapping elements in a specific <br />order. `Merge Sort` algorithm is used to sort elements <br />in an Array by splitting up the array into sub arrays then <br />merging the subarrays |
+| A26 | **_[Selection, Insertion, & Quick Sort](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity26_sortingActivity2)_** | desc |
+| A27 | **_[Binary Search](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity27_BinarySearch)_** | The `Binary Search` algorithm (divide and conquer) <br />searches an Array of elements by repeatedly dividing an <br />array in half to the portion of where the element could be |
+| A28 | **_[Sets and Iterators](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity28_setAndIteratorActivity)_** | Uses the `HashSet` data structure in order to store unique <br />elements. Use of the `Iterator` object to iterate through <br />collections like Arrays, lists, sets, and maps. |
+| A29 | **_[Generics](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity29_genericsActivity)_** | Use of Generic methods `<?>` to give a parameter any data <br />type |
 | A30 | **_[HashMap]()_** | desc |
-| A31 | **_[Linked List](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity31_linkedListActivity)_** | desc |
-| A32 | **_[Stacks](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity32_stacks)_** | desc |
-| A33 | **_[Queue](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity33_QueueActivity)_** | desc |
-| A34 | **_[Simple Date Format](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity34_dateFormat)_** | desc |
-| A35 | **_[Testing]()_** | desc |
-| A36 | **_[StringBuilder](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity36_stringBuilder)_** | desc |
+| A31 | **_[Linked List](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity31_linkedListActivity)_** | Uses the `Linked List` linear data structure to point to the <br />next element |
+| A32 | **_[Stacks](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity32_stacks)_** | Using the `Stack` data structure to put elements into the <br />list-like structure and pushes and pops them onto the top <br />of the stack using the last in first out method(LIFO) |
+| A33 | **_[Queue](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity33_QueueActivity)_** | Using `Queue`, a collection interface data structure, that <br />uses the first in first out(FIFO) method to process an <br />ordered list of elements. Similar to LinkedList |
+| A34 | **_[Simple Date Format](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity34_dateFormat)_** | Using the DateFormat is an abstract class used to format <br />and parse date/time. |
+| A35 | **_[Testing](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity35_testingActivity)_** | Using Java `JUnit 5` for writing test and extensions for programs |
+| A36 | **_[StringBuilder](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity36_stringBuilder)_** | This uses the `StringBuilder` class to manipulate string |
 | A37 | **_[JSON](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity37_JSON)_** | desc |
 | A38 | **_[XML]()_** | desc |
 | A39 | **_[]()_** | desc |
