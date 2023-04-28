@@ -51,7 +51,7 @@ Portfolio repository for projects, assignments, and activities in CS121 for spri
 | A32 | **_[Stacks](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity32_stacks)_** | Using the `Stack` data structure to put elements into the <br />list-like structure and pushes and pops them onto the top <br />of the stack using the last in first out method(LIFO) |
 | A33 | **_[Queue](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity33_QueueActivity)_** | Using `Queue`, a collection interface data structure, that <br />uses the first in first out(FIFO) method to process an <br />ordered list of elements. Similar to LinkedList |
 | A34 | **_[Simple Date Format](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity34_dateFormat)_** | Using the DateFormat is an abstract class used to format <br />and parse date/time. |
-| A35 | **_[Testing](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity35_testingActivity)_** |  |
+| A35 | **_[Testing](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity35_testingActivity)_** | Using Java `JUnit 5` for writing test and extensions for programs |
 | A36 | **_[StringBuilder](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity36_stringBuilder)_** | desc |
 | A37 | **_[JSON](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity37_JSON)_** | desc |
 | A38 | **_[XML]()_** | desc |
