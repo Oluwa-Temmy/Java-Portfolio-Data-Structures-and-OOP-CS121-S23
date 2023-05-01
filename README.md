@@ -12,10 +12,10 @@ Portfolio repository for projects, assignments, and activities in CS121 for spri
 
 | Project | Duration | Description |
 | ------------- | ------------- | ------------- |
-| (1 of 4) **_[Pokemon Battle](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/Projects/Project1)_** | Feb 4th 2023 - Feb 12th 2023 | A 2 Player pokemon battle game played in the <br />console of the editor. The player enters the <br />amount of rounds they would like to play, and <br />the player that wins the most amount of rounds <br />wins the game. |
+| (1 of 4) **_[Pokemon Battle](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/Projects/Project1)_** | Feb 4th 2023 - Feb 12th 2023 | A 2 Player pokemon battle game played in the <br />console of any editor. The player enters the <br />amount of rounds they would like to play, and <br />the player that wins the most amount of rounds <br />wins the game. |
 | (2 of 4) **_[Pokemon Class](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/Projects/Project2_Pokemon_Class)_** | Dates | desc |
-| (3 of 4) **_[Github Portfolio](https://github.com/Oluwa-Temmy/CS121-S23)_** | April 20th 2023 - April 28th 2023 | This is part of a soft skills project for creating this <br />portfolio README.md file for easier navigations <br />on this GitHub repository and future repositories. |
-| (4 of 4) **_[HashMap Lab Report](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/Projects/Project4_HashMap_LabReport)_** | April 28th, 2023 - May 1st, 2023 | This is a lab report done for the Final Exam. <br />This Lab Report researches into the `HashMap` <br />data structure of how it works externally and <br />internally. How the data structure accesses and <br />stores data in the HashMap and in RAM. <br />The code provided in this report demonstrates <br />how HashMaps works externally and the document <br />explains how HashMaps work internally. |
+| (3 of 4) **_[Github Portfolio](https://github.com/Oluwa-Temmy/CS121-S23)_** | April 20th 2023 - April 28th 2023 | This is part of a `soft skills` project for creating this <br />portfolio `README.md` file for easier navigations <br />on this `GitHub` repository and future repositories. |
+| (4 of 4) **_[HashMap Lab Report](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/Projects/Project4_HashMap_LabReport)_** | April 28th, 2023 - May 1st, 2023 | This is a lab report done for the Final Exam. <br />This Lab Report researches into the `HashMap` <br />data structure of how it works externally and <br />internally. How the data structure accesses and <br />stores data in the HashMap and in `RAM`. <br />The code provided in this report demonstrates <br />how HashMaps works externally and the document <br />explains how HashMaps work internally. |
 
 
 
