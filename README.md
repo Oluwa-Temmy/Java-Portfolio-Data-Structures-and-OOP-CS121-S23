@@ -9,7 +9,7 @@ Portfolio repository for projects, assignments, and activities in CS121 for spri
 | (1 of 4) **_[Pokemon Battle](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/Projects/Project1)_** | Feb 4th 2023 - Feb 12th 2023 | desc |
 | (2 of 4) **_[Pokemon Class](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/Projects/Project2_Pokemon_Class)_** | Dates | desc |
 | (3 of 4) **_[Github Portfolio](https://github.com/Oluwa-Temmy/CS121-S23)_** | April 20th 2023 - April 28th 2023 | desc |
-| (4 of 4) **_[Final Report]()_** | Dates | desc |
+| (4 of 4) **_[Final Report]()_** | April 28th, 2023 - May 1st, 2023 | desc |
 
 
 
