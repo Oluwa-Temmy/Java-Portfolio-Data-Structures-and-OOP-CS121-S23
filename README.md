@@ -1,5 +1,11 @@
 # 📁**CS121-S23**
-Portfolio repository for projects, assignments, and activities in CS121 for spring semester 2023.
+Portfolio repository for projects, assignments, and activities in CS121 for spring semester 2023. 
+<br />This course has taught me about data structures and how they are used and the importance they have in the study of computer science.
+
+### :page_with_curl:Tools used
+- `IntelliJ Community 2022.3.1`
+- `Java v8`
+- `Oracle Open JDK Version 17.0.5`
 
 
 # 🔨Projects
@@ -57,9 +63,9 @@ Portfolio repository for projects, assignments, and activities in CS121 for spri
 | A38 | **_[XML]()_** | desc |
 | A39 | **_[]()_** | desc |
 
-Project 1 of 4
+<!-- Project 1 of 4
 
-Dates: February 4th 2023 - February 12th 2023
+Dates: February 4th 2023 - February 12th 2023 
 
 A 2 Player pokemon battle game played in the terminal of the editor. When game is running the player is asked how
 many rounds they would like to play. 
@@ -76,6 +82,6 @@ While neither player has 0 points the game will continue with each player damagi
 health until a Player reaches 0 health.
 _-The player while loop is broken and the round is able to iterate to the next and starts the while loop again_
 
-Each round rewards the winner with 1 point, the player with the most round wins, wins the game.
+Each round rewards the winner with 1 point, the player with the most round wins, wins the game. -->
 
 
