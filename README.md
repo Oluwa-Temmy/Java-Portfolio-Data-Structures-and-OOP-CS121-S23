@@ -1,15 +1,21 @@
 # 📁**CS121-S23**
-Portfolio repository for projects, assignments, and activities in CS121 for spring semester 2023.
+Portfolio repository for projects, assignments, and activities in CS121 for spring semester 2023. 
+<br />This course has taught me about data structures and how they are used and the importance they have in the study of computer science.
+
+### :page_with_curl:Tools used
+- `IntelliJ Community 2022.3.1`
+- `Java v8`
+- `Oracle Open JDK Version 17.0.5`
 
 
 # 🔨Projects
 
 | Project | Duration | Description |
 | ------------- | ------------- | ------------- |
-| (1 of 4) **_[Pokemon Battle](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/Projects/Project1)_** | Feb 4th 2023 - Feb 12th 2023 | desc |
+| (1 of 4) **_[Pokemon Battle](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/Projects/Project1)_** | Feb 4th 2023 - Feb 12th 2023 | A 2 Player pokemon battle game played in the <br />console of any editor. The player enters the <br />amount of rounds they would like to play, and <br />the player that wins the most amount of rounds <br />wins the game. |
 | (2 of 4) **_[Pokemon Class](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/Projects/Project2_Pokemon_Class)_** | Dates | desc |
-| (3 of 4) **_[Github Portfolio](https://github.com/Oluwa-Temmy/CS121-S23)_** | April 20th 2023 - April 28th 2023 | desc |
-| (4 of 4) **_[Final Report]()_** | April 28th, 2023 - May 1st, 2023 | desc |
+| (3 of 4) **_[Github Portfolio](https://github.com/Oluwa-Temmy/CS121-S23)_** | April 20th 2023 - April 28th 2023 | This is part of a `soft skills` project for creating this <br />portfolio `README.md` file for easier navigations <br />on this `GitHub` repository and future repositories. |
+| (4 of 4) **_[HashMap Lab Report](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/Projects/Project4_HashMap_LabReport)_** | April 28th, 2023 - May 1st, 2023 | This is a lab report done for the Final Exam. <br />This Lab Report researches into the `HashMap` <br />data structure of how it works externally and <br />internally. How the data structure accesses and <br />stores data in the HashMap and in `RAM`. <br />The code provided in this report demonstrates <br />how HashMaps works externally and the document <br />explains how HashMaps work internally. |
 
 
 
@@ -57,9 +63,9 @@ Portfolio repository for projects, assignments, and activities in CS121 for spri
 | A38 | **_[XML]()_** | desc |
 | A39 | **_[]()_** | desc |
 
-Project 1 of 4
+<!-- Project 1 of 4
 
-Dates: February 4th 2023 - February 12th 2023
+Dates: February 4th 2023 - February 12th 2023 
 
 A 2 Player pokemon battle game played in the terminal of the editor. When game is running the player is asked how
 many rounds they would like to play. 
@@ -76,6 +82,6 @@ While neither player has 0 points the game will continue with each player damagi
 health until a Player reaches 0 health.
 _-The player while loop is broken and the round is able to iterate to the next and starts the while loop again_
 
-Each round rewards the winner with 1 point, the player with the most round wins, wins the game.
+Each round rewards the winner with 1 point, the player with the most round wins, wins the game. -->
 
 
