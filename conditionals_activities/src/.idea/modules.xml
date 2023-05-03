@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Hello_World_First.iml" filepath="$PROJECT_DIR$/Hello_World_First.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditionals_activities.iml" filepath="$PROJECT_DIR$/conditionals_activities.iml" />
     </modules>
   </component>
 </project>
