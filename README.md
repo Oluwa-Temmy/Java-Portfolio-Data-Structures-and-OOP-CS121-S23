@@ -24,7 +24,7 @@ Portfolio repository for projects, assignments, and activities in CS121 for spri
 | Number | Activities | Description |
 | ------------- | ------------- | ------------- |
 | A01 | **_[Dialog Box and Scanner](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity1)_** | Use of the `Scanner` class and `JOptionPane` class Library <br />in Java to take in user input and respond to user input.<br /><br />Program Files:<br /> |
-| A02 | **_[Conditionals]()_** | desc  |
+| A02 | **_[Conditionals](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/conditionals_activities)_** | desc  |
 | A03 | **_[Logical Operators](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity3)_** | Using `if`, `else`, `else-if` logical operators to check if a <br />statement is true or not<br /><br />Programs Files:<br /> |
 | A04 | **_[Switch](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity_4)_** | Uses Java `switch` case to compare the parameter <br />variable with other test cases<br /><br />Programs Files:<br /> |
 | A05 | **_[Conditionals and Equals()](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity_5)_** | desc |
@@ -60,8 +60,7 @@ Portfolio repository for projects, assignments, and activities in CS121 for spri
 | A35 | **_[Testing](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity35_testingActivity)_** | Using Java `JUnit 5` for writing test and extensions for programs |
 | A36 | **_[StringBuilder](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity36_stringBuilder)_** | This uses the `StringBuilder` class to manipulate string |
 | A37 | **_[JSON](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity37_JSON)_** | desc |
-| A38 | **_[XML]()_** | desc |
-| A39 | **_[]()_** | desc |
+| A38 | **_[XML](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity38_XML)_** | desc |
 
 <!-- Project 1 of 4
 
