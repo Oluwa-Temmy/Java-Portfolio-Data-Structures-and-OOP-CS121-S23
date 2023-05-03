@@ -43,7 +43,6 @@ Portfolio repository for projects, assignments, and activities in CS121 for spri
 | A19 | **_[Inheritance](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity_19Inheritance)_** | desc |
 | A20 | **_[Abstract and Interfaces](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity20_abstractAndInterference)_** | Uses the `abstract` class to use abstract methods and <br />uses `Interfaces` for complete abstraction for <br />implementation |
 | A21 | **_[Static Keyboard](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity21_staticActivity)_** |Using the `static` keyword on variables |
-| A22 | **_[]()_** | desc |
 | A23 | **_[Recursion](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity23_recursion)_** | Using `recursion` to find out whether or not a string <br />is a palindrome |
 | A24 | **_[Big O](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity24_BigOActivity)_** | Calculating aproximate Space Time Complexity(`Big O`) <br />for memory usage and process time completion |
 | A25 | **_[Bubble Sort & Merge Sort](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity25_sortingActivity)_** | Using the `Bubble sorting` algorithm in order to organize <br />elements in an Array by swapping elements in a specific <br />order. `Merge Sort` algorithm is used to sort elements <br />in an Array by splitting up the array into sub arrays then <br />merging the subarrays |
