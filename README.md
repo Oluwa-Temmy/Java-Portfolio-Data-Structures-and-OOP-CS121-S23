@@ -23,10 +23,10 @@ Portfolio repository for projects, assignments, and activities in CS121 for spri
 
 | Number | Activities | Description |
 | ------------- | ------------- | ------------- |
-| A01 | **_[Dialog Box and Scanner](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity1)_** | Use of the `Scanner` class and `JOptionPane` class Library <br />in Java to take in user input and respond to user input.<br /><br />Program Files:<br /> |
+| A01 | **_[Dialog Box and Scanner](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity1)_** | Use of the `Scanner` class and `JOptionPane` class Library <br />in Java to take in user input and respond to user input.<br />|
 | A02 | **_[Conditionals](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/conditionals_activities)_** | desc  |
-| A03 | **_[Logical Operators](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity3)_** | Using `if`, `else`, `else-if` logical operators to check if a <br />statement is true or not<br /><br />Programs Files:<br /> |
-| A04 | **_[Switch](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity_4)_** | Uses Java `switch` case to compare the parameter <br />variable with other test cases<br /><br />Programs Files:<br /> |
+| A03 | **_[Logical Operators](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity3)_** | Using `if`, `else`, `else-if` logical operators to check if a <br />statement is true or not<br /> |
+| A04 | **_[Switch](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity_4)_** | Uses Java `switch` case to compare the parameter <br />variable with other test cases<br /> |
 | A05 | **_[Conditionals and Equals()](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity_5)_** | desc |
 | A07 | **_[While Loop](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/activity_7)_** | desc |
 | A08 | **_[Nested for Loops](https://github.com/Oluwa-Temmy/CS121-S23/tree/main/activities/nestedForLoopsActivity8)_** | desc |
